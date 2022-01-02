@@ -1,0 +1,12 @@
+*
+!.gitignore
+!components
+!interfaces
+!next-env.d.ts
+!package.json
+!pages
+!postcss.config.js
+!README.md
+!styles
+!tsconfig.json
+!utils
