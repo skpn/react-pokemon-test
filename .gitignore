@@ -1,12 +1,18 @@
 *
+# hidden files
 !.gitignore
-!components
-!interfaces
+
+# files
 !next-env.d.ts
 !package.json
-!pages
 !postcss.config.js
 !README.md
-!styles
 !tsconfig.json
-!utils
+
+# directories
+!components/**/*
+!components/**/*
+!interfaces/**/*
+!pages/**/*
+!styles/**/*
+!utils/**/*
