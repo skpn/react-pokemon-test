@@ -10,9 +10,13 @@
 !tsconfig.json
 
 # directories
+!components
 !components/**/*
-!components/**/*
+!interfaces
 !interfaces/**/*
+!pages
 !pages/**/*
+!styles
 !styles/**/*
+!utils
 !utils/**/*
