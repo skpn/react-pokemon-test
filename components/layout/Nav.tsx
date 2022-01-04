@@ -10,7 +10,7 @@ const Nav = ({ links }: Props) => (
   <nav>
     <ul>
       {links.map((link) => (
-        <React.Fragment>
+        <React.Fragment key={link.href}>
           <Link href={link.href}>
             <a>{link.text}</a>
           </Link>{" "}

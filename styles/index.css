@@ -4,3 +4,6 @@
 /* purgecss end ignore */
 @tailwind utilities;
 
+.text-color-white {
+  color: white;
+}
